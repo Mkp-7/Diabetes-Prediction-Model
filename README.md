@@ -17,7 +17,7 @@ Random Forest Classifier
 XGBoost Classifier
 
 # Results
-The best performing model is selected based on 5-fold cross-validation accuracy.
+The best performing model SVM is selected based on 5-fold cross-validation accuracy.
 
 # Usage
 pip install -r requirements.txt
