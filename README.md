@@ -1,5 +1,4 @@
 # Diabetes-Prediction-Model
-
 This project analyzes a diabetes dataset and applies several classification models (Logistic Regression, SVM, Decision Tree, Random Forest, XGBoost) to predict diabetes outcomes. It includes EDA, feature importance, model comparison using cross-validation, and accuracy reporting.
 
 # Features
